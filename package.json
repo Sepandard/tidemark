@@ -1,0 +1,18 @@
+{
+  "name": "tidemark",
+  "version": "0.0.0",
+  "bugs": {
+    "url": "https://github.com/Sepandard/tidemark/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sepandard/tidemark.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
